@@ -1,0 +1,68 @@
+
+.App {
+  text-align: center;
+  
+}
+
+@font-face {
+  font-family: 'nb_international_proBdIt';
+  src: url('../font/nb_international_pro_bold_italic-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_bold_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_probold';
+  src: url('../font/nb_international_pro_bold-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_proitalic';
+  src: url('../font/nb_international_pro_italic-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_proLtIt';
+  src: url('../font/nb_international_pro_light_italic-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_light_italic-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_prolight';
+  src: url('../font/nb_international_pro_light-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_light-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_promono';
+  src: url('../font/nb_international_pro_mono-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_mono-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  font-family: 'nb_international_proregular';
+  src: url('../font/nb_international_pro_regular-webfont.woff2') format('woff2'),
+       url('../font/nb_international_pro_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
