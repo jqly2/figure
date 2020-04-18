@@ -1,5 +1,5 @@
 .header{
-    position:relative;
+    position: fixed;
     display:flex;
     flex-direction: column;
     margin-left: .5em;
@@ -12,12 +12,12 @@
 }
 
 p{
-    font-family: 'nb_international_probold';
+    font-family: 'nb_international_proregular';
     line-height: 0.95em;
-    font-size: 18.5px;
+    font-size: 20px;
     text-align: left;
 }
 p a{
-    color:black;
+    color:rgb(11, 102, 35);
     text-decoration: none;
 }
