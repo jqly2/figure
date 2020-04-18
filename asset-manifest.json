@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/figure/static/css/main.6ccca846.chunk.css",
-    "main.js": "/figure/static/js/main.82c467a7.chunk.js",
-    "main.js.map": "/figure/static/js/main.82c467a7.chunk.js.map",
+    "main.css": "/figure/static/css/main.55064894.chunk.css",
+    "main.js": "/figure/static/js/main.3a4aa350.chunk.js",
+    "main.js.map": "/figure/static/js/main.3a4aa350.chunk.js.map",
     "runtime-main.js": "/figure/static/js/runtime-main.a446d31c.js",
     "runtime-main.js.map": "/figure/static/js/runtime-main.a446d31c.js.map",
     "static/css/2.1fd2b905.chunk.css": "/figure/static/css/2.1fd2b905.chunk.css",
-    "static/js/2.1b0e4ce7.chunk.js": "/figure/static/js/2.1b0e4ce7.chunk.js",
-    "static/js/2.1b0e4ce7.chunk.js.map": "/figure/static/js/2.1b0e4ce7.chunk.js.map",
+    "static/js/2.b89133f9.chunk.js": "/figure/static/js/2.b89133f9.chunk.js",
+    "static/js/2.b89133f9.chunk.js.map": "/figure/static/js/2.b89133f9.chunk.js.map",
     "index.html": "/figure/index.html",
-    "precache-manifest.fda4b8f4676798b3bb154ab14933e190.js": "/figure/precache-manifest.fda4b8f4676798b3bb154ab14933e190.js",
+    "precache-manifest.7421ad476c391083655adbad71300e1c.js": "/figure/precache-manifest.7421ad476c391083655adbad71300e1c.js",
     "service-worker.js": "/figure/service-worker.js",
     "static/css/2.1fd2b905.chunk.css.map": "/figure/static/css/2.1fd2b905.chunk.css.map",
-    "static/css/main.6ccca846.chunk.css.map": "/figure/static/css/main.6ccca846.chunk.css.map",
-    "static/js/2.1b0e4ce7.chunk.js.LICENSE.txt": "/figure/static/js/2.1b0e4ce7.chunk.js.LICENSE.txt",
+    "static/css/main.55064894.chunk.css.map": "/figure/static/css/main.55064894.chunk.css.map",
+    "static/js/2.b89133f9.chunk.js.LICENSE.txt": "/figure/static/js/2.b89133f9.chunk.js.LICENSE.txt",
     "static/media/FIGURE_CASHMERE_CABIN_INTERIOR.jpg": "/figure/static/media/FIGURE_CASHMERE_CABIN_INTERIOR.ccf08f64.jpg",
     "static/media/FIGURE_LAKESIDE_EXTERIOR.jpg": "/figure/static/media/FIGURE_LAKESIDE_EXTERIOR.f921e7e6.jpg",
     "static/media/FIGURE_LAKESIDE_GROUND_PLAN.jpg": "/figure/static/media/FIGURE_LAKESIDE_GROUND_PLAN.a3dacc61.jpg",
@@ -34,13 +34,14 @@
     "static/media/FIGURE_SUPPORTING_ACT_MODEL_2.jpg": "/figure/static/media/FIGURE_SUPPORTING_ACT_MODEL_2.2ccddd28.jpg",
     "static/media/FIGURE_SUPPORTING_ACT_PLAN.jpg": "/figure/static/media/FIGURE_SUPPORTING_ACT_PLAN.7fe2df01.jpg",
     "static/media/Figure.jpg": "/figure/static/media/Figure.f69aea4d.jpg",
+    "static/media/figure_new_img.jpg": "/figure/static/media/figure_new_img.5656f6a7.jpg",
     "static/media/App.css": "/figure/static/media/nb_international_pro_regular-webfont.cca869af.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.a446d31c.js",
     "static/css/2.1fd2b905.chunk.css",
-    "static/js/2.1b0e4ce7.chunk.js",
-    "static/css/main.6ccca846.chunk.css",
-    "static/js/main.82c467a7.chunk.js"
+    "static/js/2.b89133f9.chunk.js",
+    "static/css/main.55064894.chunk.css",
+    "static/js/main.3a4aa350.chunk.js"
   ]
 }
