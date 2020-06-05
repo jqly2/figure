@@ -1,19 +1,20 @@
 .landing-slider{
     left: 0;
     right: 0;
-    margin: auto;
-    margin-top: 3.5em;
+    margin:0 auto;
+    margin-top: 0.5em;
+    padding: 5vh;
 }
 
 .landing-slider img{
     max-width:80vw;
-    max-height:80vh;
+    max-height:100vh;
     height:auto;
     width:auto;
 }
 
 .slide-animate{
-    transition: opacity 1500ms
+    transition: opacity 2500ms
 
 }
 

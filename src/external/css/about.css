@@ -6,3 +6,16 @@
     margin-top: 5%;
     margin-bottom: 5%;
 }
+
+.about p{
+    margin-top: 5%;
+    line-height: 1.15em;
+}
+
+.about-align{
+    width: 40%;
+}
+
+.about-align p{
+    font-size: calc(14px + (26 - 14) * ((100vw - 300px) / (1600 - 300)));
+}

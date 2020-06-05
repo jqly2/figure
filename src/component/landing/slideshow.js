@@ -16,10 +16,10 @@ export default class extends React.Component {
         naturalSlideHeight={180}
         infinite={true}
         isPlaying={true}
-        interval={4000}
+        interval={5000}
       >
-        <Animated animatedIn="fadeIn" animatedOut="fadeOut">
-          <Slider classNameAnimation="fadeIn">
+        <Animated >
+          <Slider classNameAnimation="fadeOut">
               <Slide className="slide-animate" classNameHidden="slide-out" classNameVisible="slide-in" index={0}><img src={sliderArr[0]} alt="First"/></Slide>
               <Slide className="slide-animate" classNameHidden="slide-out" classNameVisible="slide-in" index={1}><img src={sliderArr[1]} alt="Second"/></Slide>
               <Slide className="slide-animate" classNameHidden="slide-out" classNameVisible="slide-in" index={2}><img src={sliderArr[2]} alt="Third"/></Slide> 
